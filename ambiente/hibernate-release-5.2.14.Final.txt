@@ -1,0 +1,1 @@
+https://sourceforge.net/projects/hibernate/files/hibernate-orm/5.2.14.Final/hibernate-release-5.2.14.Final.zip/download
