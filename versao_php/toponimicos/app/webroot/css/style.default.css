@@ -1,0 +1,67 @@
+body {
+	font-size: 10px;
+}
+img, a img {
+	border:none;
+	text-decoration:none
+}
+fieldset {
+	border:none
+}
+.center {
+	margin:0 auto
+}
+.relative {
+	position: relative;
+}
+.absolute {
+	position: absolute;
+}
+.left {
+	float:left
+}
+.right {
+	float:right
+}
+.none {
+	display:none
+}
+.align-right {
+	text-align:right
+}
+.align-left {
+	text-align:left
+}
+.align-center {
+	text-align:center
+}
+.middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+.h-first {padding-left: 0 !important; margin-left: 0 !important}
+.h-last {padding-right: 0 !important; margin-right: 0 !important}
+
+.indent, .accessibility {
+	width: 0;
+	height: 0;
+	line-height: 0;
+	display: block;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.invisible {display: none;}
+.anchor {
+	display: block;
+	height: 0;
+	width: 0;
+	overflow: hidden;
+}
+.clear {
+	clear:both;
+	display:block;
+	height:0;
+	overflow:hidden;
+	visibility:hidden;
+	width:0
+}
