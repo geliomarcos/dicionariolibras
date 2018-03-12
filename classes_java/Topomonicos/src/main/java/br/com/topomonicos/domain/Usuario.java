@@ -30,5 +30,9 @@ public class Usuario extends GenericDomain {
 		this.senha = senha;
 	}
 	
-	
+	 @Override
+	 public String toString() {
+	  return "Usuario [username=" + login + ", password=" + senha
+	    + "]";
+	 }
 }
